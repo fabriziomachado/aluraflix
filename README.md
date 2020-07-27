@@ -18,6 +18,10 @@ npm install
 npm start
 ```
 
+## Deploy automatizado na Vercel.com
+
+https://aluraflix-delta.vercel.app/
+
 ## History
 Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases) pra acompanhar as alterações feitas no projeto.
 
